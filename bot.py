@@ -6,7 +6,7 @@ import os
 
 load_dotenv()
 
-TOKEN = os.getenv("6119947329:AAFnY2ySVFmrWzKuqiVyJB_HJQ_ua2q9fCQ")
+TOKEN = os.getenv("7547355316:AAF2XAkqpYYBGJ2DXoh4RhdTxeZVmpN94wY")
 
 def download_youtube_video(url: str) -> str:
     try:
